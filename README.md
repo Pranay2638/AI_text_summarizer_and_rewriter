@@ -95,5 +95,8 @@ Artificial intelligence is increasingly supporting personalized learning by anal
 - Authentication and usage limits
 
 ## References
-- OpenAI API: https://platform.openai.com/docs/
-- Streamlit: https://docs.streamlit.io/
+- Google Gemini API Documentation: https://ai.google.dev/gemini-api/docs
+- Google AI Studio: https://aistudio.google.com/
+- Google Gen AI Python SDK: https://github.com/googleapis/python-genai
+- Streamlit Documentation: https://docs.streamlit.io/
+- Streamlit Secrets Management: https://docs.streamlit.io/develop/concepts/connections/secrets-management
